@@ -1,4 +1,4 @@
-import { getCookie } from '../../node_modules/cookies-next/src/index';
+import { getCookie } from 'cookies-next';
 import { cookies } from 'next/headers';
 import { req } from './axios';
 
