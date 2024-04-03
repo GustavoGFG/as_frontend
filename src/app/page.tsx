@@ -5,7 +5,7 @@ const Page = () => {
   return (
     <div>
       <Header subtitle="Home" />
-      <main className="min-h-[calc(100vh-140px)]"></main>
+      <main className="min-h-[calc(100dvh-140px)]"></main>
       <Footer />
     </div>
   );
