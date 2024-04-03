@@ -2,7 +2,7 @@ import Footer from '@/components/global/Footer';
 import Header from '@/components/global/Header';
 import { ReactNode } from 'react';
 
-export const metadata: Metadata = {
+export const metadata = {
   title: 'Amigo Secreto - Admin',
 };
 
